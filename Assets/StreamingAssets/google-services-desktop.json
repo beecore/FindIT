@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832699564748",
+    "project_id": "findit-f1af3",
+    "storage_bucket": "findit-f1af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832699564748:android:93ee7d3a3d27caa4d7b869",
+        "android_client_info": {
+          "package_name": "com.beecoregame.findhiddenit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUw54dboT3U1ZiyfjuzvBF5Vn8NmieOos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
